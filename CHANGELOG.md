@@ -3,6 +3,7 @@
 ### Features
 
 ### Improvements
+- Security updates
 
 ### Bugfixes
 - **Github**: [Error: Cannot add a Service with the same UUID](https://github.com/smhex/homebridge-wled-ws/issues/99)
