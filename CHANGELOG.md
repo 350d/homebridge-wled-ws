@@ -1,4 +1,4 @@
-## 0.0.15-beta.0 (2024-06-21)
+## 0.0.16 (2024-06-22)
 
 ### Features
 
@@ -6,6 +6,6 @@
 - Security updates
 
 ### Bugfixes
-- **Github**: [Error: Cannot add a Service with the same UUID](https://github.com/smhex/homebridge-wled-ws/issues/99)
+- **Github**: [Check that pkg.maintainers is defined before checking it's length](https://github.com/homebridge/homebridge-config-ui-x/pull/2069)
 
 ### Known issues
