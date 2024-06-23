@@ -1,11 +1,11 @@
-## 0.0.16 (2024-06-22)
+## 0.1.0-beta.0 (2024-xx-xx)
 
 ### Features
 
 ### Improvements
+- **Github**: [Optimize layout of configuration options](https://github.com/smhex/homebridge-wled-ws/issues/101)
 - Security updates
 
 ### Bugfixes
-- **Github**: [Check that pkg.maintainers is defined before checking it's length](https://github.com/homebridge/homebridge-config-ui-x/pull/2069)
 
 ### Known issues
